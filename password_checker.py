@@ -25,7 +25,7 @@ messages = [
     "Enter your password. Your password should be strong and contains:",
     "At least 12 characters.",
     "At least one uppercase character.",
-    "At least lowercase characters.",
+    "At least one lowercase characters.",
     "At least one special character.",
     "At least 1 number."
 ]
